@@ -1,0 +1,58 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.capa1{
+    background-color: red;
+    width: 1400px;
+    height: 700px;
+    padding: 50px;
+}
+.capa2{
+    background-color: aqua;
+    width: 1300px;
+    height: 600px;
+    margin: 20px;
+    padding: 20px;
+}
+.capa3{
+    background-color: antiquewhite;
+    width: 1200px;
+    height: 500px;
+    margin: 40px;
+    padding: 9px;
+}
+.capa4{
+    background-color: yellow;
+    width: 1100px;
+    height: 400px;
+    margin: 40px;
+    padding: 9px;
+    
+}
+.capa5{
+    background-color: orange;
+    width: 1000px;
+    height: 300px;
+    margin: 40px;
+    padding: 9px;
+}
+.capa6{
+    background-color: green;
+    width: 900px;
+    height: 200px;
+    margin: 40px;
+    padding: 9px;
+}
+.capa7{
+    background-color: burlywood;
+    width: 800px;
+    height: 100px;
+    margin: 40px;
+    padding: 9px;
+}
+h1{
+    padding: 40px;
+    font-size: 50px;
+}
